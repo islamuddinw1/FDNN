@@ -100,6 +100,6 @@ If you find this work useful, please cite the paper:
 
 ## Contact
 For any queries or collaborations, please contact:
-- **Name**: Your Name
-- **Email**: your.email@example.com
+- **Name**: Islam Uddin
+- **Email**: islamuddin@awkum.edu.pk 
 - **GitHub**: [your-profile]([https://github.com/your-profile](https://github.com/islamuddinw1/FDNN.git ))
